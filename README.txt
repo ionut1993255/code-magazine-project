@@ -4,7 +4,7 @@ I built this project with the help of HTML5 and CSS3 in order to learn fundament
 two languages.
 I used CSS Flexbox and CSS Grid to display the main elements of the page.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://ionut-code-magazine-project.netlify.app/
 
